@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4e7435e2.css",
-    "main.js": "/portfolio/static/js/main.b3b5ed15.js",
-    "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
+    "main.css": "/portfolio/static/css/main.127791a1.css",
+    "main.js": "/portfolio/static/js/main.c9e0f6c7.js",
+    "static/js/685.e38885d5.chunk.js": "/portfolio/static/js/685.e38885d5.chunk.js",
     "static/media/CodePen_Profile.png": "/portfolio/static/media/CodePen_Profile.73aa00f186c0d710630d.png",
     "static/media/Google_Gemini_AI_Clone.png": "/portfolio/static/media/Google_Gemini_AI_Clone.fae46f5e710c4e38e9ea.png",
     "static/media/Music_Player.png": "/portfolio/static/media/Music_Player.1675ec044590f23853a0.png",
@@ -24,13 +24,10 @@
     "static/media/roboto-vietnamese-400-normal.woff": "/portfolio/static/media/roboto-vietnamese-400-normal.0dc97c66f9b542d6fa17.woff",
     "static/media/roboto-greek-ext-400-normal.woff2": "/portfolio/static/media/roboto-greek-ext-400-normal.1df4abad55796d11a0c8.woff2",
     "static/media/roboto-greek-ext-400-normal.woff": "/portfolio/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
-    "index.html": "/portfolio/index.html",
-    "main.4e7435e2.css.map": "/portfolio/static/css/main.4e7435e2.css.map",
-    "main.b3b5ed15.js.map": "/portfolio/static/js/main.b3b5ed15.js.map",
-    "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
+    "index.html": "/portfolio/index.html"
   },
   "entrypoints": [
-    "static/css/main.4e7435e2.css",
-    "static/js/main.b3b5ed15.js"
+    "static/css/main.127791a1.css",
+    "static/js/main.c9e0f6c7.js"
   ]
 }
