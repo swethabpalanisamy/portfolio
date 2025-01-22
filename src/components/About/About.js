@@ -6,16 +6,9 @@ function About() {
     <section className="about-container" id="about">
       <h2 className="about-title">About me</h2>
       <div className="about-content">
-        {/* <img
-          src={assets.aboutImage}
-          alt="Me sitting with a laptop"
-          className="about-image"
-        /> */}
         <ul className="about-items">
           <li className="about-item">
-            {/* <img src={assets.cursorIcon} alt="Cursor icon" /> */}
             <div className="about-item-text">
-              {/* <h3>Frontend Developer</h3> */}
               <p>
                 I’m Swetha Palanisamy, a Software Engineer with over three years
                 of experience in frontend development. I have worked extensively
@@ -29,13 +22,8 @@ function About() {
             </div>
           </li>
           <li className="about-item">
-            {/* <img src={assets.serverIcon} alt="Server icon" /> */}
             <ul className="about-div">
               <li className="about-div-item">
-                {/* <img
-                  src={assets[historyItem.imageSrc]}
-                  alt={`${historyItem.organisation} Logo`}
-                /> */}
                 <div className="about-div-item-details">
                   <h3>Skills</h3>
                   <p>
