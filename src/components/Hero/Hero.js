@@ -14,8 +14,7 @@ function Hero() {
         </p>
         <p className="title">Swetha Palanisamy</p>
         <p className="description">
-          A frontend developer with over 3 years of professional experience in
-          the field.
+          I build products, craft interfaces, and bring ideas to life with code.
         </p>
         <div className="contact-btn-div">
           <a
