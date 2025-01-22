@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.4e7435e2.css",
-    "main.js": "/portfolio/static/js/main.46a33cda.js",
+    "main.js": "/portfolio/static/js/main.b3b5ed15.js",
     "static/js/488.9561f9b8.chunk.js": "/portfolio/static/js/488.9561f9b8.chunk.js",
     "static/media/CodePen_Profile.png": "/portfolio/static/media/CodePen_Profile.73aa00f186c0d710630d.png",
     "static/media/Google_Gemini_AI_Clone.png": "/portfolio/static/media/Google_Gemini_AI_Clone.fae46f5e710c4e38e9ea.png",
@@ -26,11 +26,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/portfolio/static/media/roboto-greek-ext-400-normal.16eb83b4a3b1ea994243.woff",
     "index.html": "/portfolio/index.html",
     "main.4e7435e2.css.map": "/portfolio/static/css/main.4e7435e2.css.map",
-    "main.46a33cda.js.map": "/portfolio/static/js/main.46a33cda.js.map",
+    "main.b3b5ed15.js.map": "/portfolio/static/js/main.b3b5ed15.js.map",
     "488.9561f9b8.chunk.js.map": "/portfolio/static/js/488.9561f9b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e7435e2.css",
-    "static/js/main.46a33cda.js"
+    "static/js/main.b3b5ed15.js"
   ]
 }
