@@ -31,5 +31,6 @@ module.exports = {
   resolve: {
     extensions: [".js", ".jsx"],
   },
-  mode: "development", // Set to 'production' for optimized output
+  mode: "production", // Set to 'production' for optimized output
+  devtool: false,
 };
