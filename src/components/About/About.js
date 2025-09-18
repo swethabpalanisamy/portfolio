@@ -10,24 +10,19 @@ function About() {
           <li className="about-item">
             <div className="about-item-text">
               <p>
-                I’m Swetha Palanisamy, a Software Engineer with over three years
-                of experience in frontend development. I have worked extensively
-                on frontend development using React.js, JavaScript, TypeScript,
-                HTML, and CSS to build responsive web applications.
-                Additionally, I have worked on backend development, utilizing
-                Java, Spring Boot, and MySQL to develop RESTful APIs and manage
-                databases. I am also proficient in tools like Git, Postman, and
-                Jest and have experience working with Agile methodologies.
+                I’m Swetha Palanisamy, a Software Engineer with 4 years of experience delivering performant and scalable React.js applications.
+                Strong expertise in reusable component design, internationalization, and testing. Passionate about AI, with
+                hands-on weekend projects in Generative AI, prompt engineering, and LangChain.
               </p>
             </div>
           </li>
-          <li className="about-item">
+          {/* <li className="about-item">
             <ul className="about-div">
               <li className="about-div-item">
                 <div className="about-div-item-details">
                   <h3>Skills</h3>
                   <p>
-                    HTML, CSS, JavaScript, React Js, TypeScript, Web Components,
+                    HTML, CSS, JavaScript, React.js, Next.js, Web Components,
                     Jest
                   </p>
                 </div>
@@ -39,7 +34,7 @@ function About() {
                 </div>
               </li>
             </ul>
-          </li>
+          </li> */}
         </ul>
       </div>
     </section>
